@@ -17,7 +17,7 @@ A simple command-line billing system built using **Python tuples and tuple unpac
 
 ## 📁 Files
 
-- `billing_system.py` – Main program
+- `main.py` – Main program
 
 ---
 
@@ -27,4 +27,4 @@ A simple command-line billing system built using **Python tuples and tuple unpac
 2. Open terminal and run:
 
 ```bash
-python billing_system.py
+python main.py
